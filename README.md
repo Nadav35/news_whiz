@@ -1,1 +1,3 @@
 # news_whiz
+
+NewsWhiz
